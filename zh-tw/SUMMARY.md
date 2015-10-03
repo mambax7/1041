@@ -1,6 +1,5 @@
 # Table of content
 
-* [Introduction](book/0.md)
 * [1. XOOPS的開發環境](book/1.md)
     * [1-1 xoops_version.php
     * [1-2 languages/tchinese_utf8/modinfo.php

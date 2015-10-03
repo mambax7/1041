@@ -1,3 +1,3 @@
 # 1041 XOOPS Module Development
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+Education course from Taiwan, developed by [Tad](http://www.tad0616.net)

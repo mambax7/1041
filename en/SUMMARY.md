@@ -78,3 +78,4 @@
     * [9-11 bootstrap2 bootstrap3 level and form structure
     * [9-12 /templates/tad_ebook_post_b3.html
     * [9-13 /templates/tad_ebook_adm_main_b3.html
+* [About XOOPS CMS](book/10aboutxoops.md)

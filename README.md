@@ -1,5 +1,5 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # 1041 XOOPS Module Development / XOOPS????
 
